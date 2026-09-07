@@ -1,0 +1,6 @@
+{
+  "name": "Bomb Squad",
+  "description": "A cartoonish bomb defusal puzzle game with countdown timers, mini-puzzles, and comic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
